@@ -18,6 +18,10 @@ Site completo de um bar e restaurante fictício desenvolvido como projeto pessoa
 
 ---
 
+## Deploy
+
+Acesse o site em produção: [https://adega-mais-veio.netlify.app](https://adega-mais-veio.netlify.app)
+
 ## Índice
 
 - [Sobre o Projeto](#sobre-o-projeto)
